@@ -4,7 +4,7 @@ from agents import requirement_agent, code_agent, testing_agent
 from rag import retrieve_context
 
 # Configure API
-genai.configure(api_key="AIzaSyAfJ53SslReHw6AJf667KhWsAOsgrwxsb0")
+genai.configure(api_key="AIzaSyAyYlIf-1DKOgf6UdDqWz4_8Xg_14eCuzA")
 
 model = genai.GenerativeModel("gemini-2.5-flash")
 
